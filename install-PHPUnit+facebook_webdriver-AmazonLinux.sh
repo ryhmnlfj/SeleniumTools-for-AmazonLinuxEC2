@@ -13,4 +13,5 @@ php composer.phar --version
 sudo yum -y install php-xml
 php composer.phar require phpunit/phpunit
 php composer.phar require facebook/webdriver
+php composer.phar require phpunit/phpunit-selenium
 
